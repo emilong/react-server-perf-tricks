@@ -8,4 +8,4 @@ const render = () => {
   ReactDOMServer.renderToString(<RecursiveDivs depth={depth} breadth={breadth}/>);
 }
 
-export default [{name: "Stateless components", fn:render}];
+export default [{name: "recompose/branch", fn:render}];
