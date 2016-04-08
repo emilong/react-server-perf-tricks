@@ -18,6 +18,7 @@
     "benchmark": "^2.0.0",
     "react": "^0.14.6",
     "react-dom": "^0.14.6",
-    "react-dom-stream": "^0.5.0"
+    "react-dom-stream": "^0.5.0",
+    "recompose": "^0.16.0"
   }
 }
